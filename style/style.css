@@ -175,5 +175,38 @@
 
 .button-touch {
       width: 100%;
-      /* padding: px; */
+}
+
+/* footer section work */
+.footer-section {
+      background-color: #FFFFFF;
+      padding: 100px 400px;
+}
+
+
+.footer-logo {
+      font-size: 100px;
+      text-align: center;
+}
+
+ul li {
+      list-style: none;
+}
+
+ul li a {
+      text-decoration: none;
+      color: #8987A1;
+}
+
+.footer-description {
+      text-align: center;
+      color: #8987A1;
+      margin-bottom: 20px;
+      margin-top: 10px;
+}
+
+.footer-items {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
 }
