@@ -4,6 +4,17 @@
 }
 
 /* share logo */
+.dark-1 {
+      color: #000000;
+}
+
+.dark-2 {
+      color: #252432;
+}
+
+.dark-3 {
+      color: #25243280;
+}
 
 .LOGO {
       color: #4E47FF;
@@ -23,6 +34,10 @@
 
 .button:hover {
       background: rgba(48, 43, 199, 0.712);
+}
+
+.body-style {
+      background: rgb(245, 248, 255);
 }
 
 .main {
@@ -63,6 +78,23 @@
 }
 
 /* action section style */
-.action-container {
-      border: 1px solid red;
+.action-section {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 130px;
+}
+
+.action-title {
+      font-size: 42px;
+}
+
+.action-description {
+      font-size: 24px;
+      margin: 8px 0px;
+      width: 70%;
+}
+
+.img-mini {
+      border-radius: 20px;
 }
