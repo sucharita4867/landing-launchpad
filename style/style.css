@@ -129,3 +129,15 @@
       font-size: 80px;
 
 }
+
+/* input section work */
+.input-container {
+      border: 2px solid red;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.input-items label {
+      display: block;
+}
