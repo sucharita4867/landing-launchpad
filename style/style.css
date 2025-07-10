@@ -1,0 +1,68 @@
+* {
+      margin: 0;
+      padding: 0;
+}
+
+/* share logo */
+
+.LOGO {
+      color: #4E47FF;
+      font-weight: 900;
+      font-size: 34px;
+
+}
+
+.button {
+      border-radius: 10px;
+      background: rgb(78, 71, 255);
+      font-weight: 700;
+      color: #FFFFFF;
+      padding: 12px 36px;
+      border: none;
+}
+
+.button:hover {
+      background: rgba(48, 43, 199, 0.712);
+}
+
+.main {
+      width: 1140px;
+      margin: 0px auto;
+      margin-top: 130px;
+}
+
+/* navber section */
+.header-section {
+      background-image: url(../Assets/Hero-bg.png);
+}
+
+.nav-section {
+      width: 1140px;
+      margin: 0px auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 50px 0px;
+}
+
+/* hero section */
+.header-title {
+      font-weight: 700;
+      font-size: 65px;
+      text-align: center;
+      padding: 20px 150px;
+      /* margin-top: 120px; */
+}
+
+.header-container {
+      border: 1px solid red;
+}
+
+.button-2 {
+      text-align: center;
+}
+
+/* action section style */
+.action-container {
+      border: 1px solid red;
+}
