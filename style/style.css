@@ -187,13 +187,49 @@
 
 /* Ready to focus better */
 .focus-container {
-      border: 1px solid red;
+      background-color: #FFFFFF;
+      border-radius: 14px;
       margin-top: 130px;
+      padding: 70px 150px;
 }
 
 .focus-title {
       font-size: 50px;
       text-align: center;
+      color: #000000;
+}
+
+.focus-description {
+      text-align: center;
+      color: #00000080;
+      margin-top: 10px;
+      font-size: 16px;
+}
+
+.button-3:hover {
+      background: rgba(16, 10, 190, 0.781);
+      border-radius: 10px;
+}
+
+.focus-button {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+      border-radius: 10px;
+}
+
+.button-3 {
+      border-radius: 10px;
+      background: rgb(78, 71, 255);
+      font-weight: 700;
+      color: #FFFFFF;
+      padding: 12px 36px;
+      border: none;
+}
+
+.focus-image {
+      margin-top: 20px;
+      border-radius: 48px;
 }
 
 /* input section work */
