@@ -185,13 +185,24 @@
       font-size: 14px;
 }
 
+/* Ready to focus better */
+.focus-container {
+      border: 1px solid red;
+      margin-top: 130px;
+}
+
+.focus-title {
+      font-size: 50px;
+      text-align: center;
+}
+
 /* input section work */
 .input-container {
       display: flex;
       justify-content: space-evenly;
       align-items: center;
       padding: 70px 0px;
-      margin-top: 130px;
+      margin-top: 100px;
 }
 
 .input-items label {
