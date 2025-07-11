@@ -43,7 +43,7 @@
 .main {
       width: 1140px;
       margin: 0px auto;
-      margin-top: 130px;
+      margin-top: 100px;
 }
 
 /* navber section */
@@ -65,12 +65,12 @@
       font-weight: 700;
       font-size: 65px;
       text-align: center;
-      padding: 20px 150px;
-      /* margin-top: 120px; */
+      padding: 10px 150px 40px 150px;
+      width: 80%;
 }
 
 .header-container {
-      border: 1px solid red;
+      padding: 10em;
 }
 
 .button-2 {
@@ -132,7 +132,7 @@
 
 /* users say section */
 .users-say {
-      margin-top: 130px;
+      margin-top: 100px;
 }
 
 .users-title {
@@ -189,7 +189,7 @@
 .focus-container {
       background-color: #FFFFFF;
       border-radius: 14px;
-      margin-top: 130px;
+      margin-top: 100px;
       padding: 70px 150px;
 }
 
